@@ -8,7 +8,7 @@ using Uno.Foundation;
 using Uno.Extensions;
 using Uno.UI.Runtime.WebAssembly;
 
-namespace FlatpickrDemo.Shared
+namespace EmbeddingJSComponentsWASM_PSInShared.Shared
 {
     [HtmlElement("input")] // Flatpickr requires an <input> HTML element
     public class FlatpickrView : FrameworkElement
